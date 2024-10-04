@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://preoide.github.io/sitemap.html.gz
+Sitemap: https://preoide.github.io/app/sitemap.html.gz
+Sitemap: https://preoide.github.io/assets/sitemap.html.gz
+Sitemap: https://preoide.github.io/css/sitemap.html.gz
+Sitemap: https://preoide.github.io/data/sitemap.html.gz
+Sitemap: https://preoide.github.io/includes/sitemap.html.gz
+Sitemap: https://preoide.github.io/item/sitemap.html.gz
+Sitemap: https://preoide.github.io/src/sitemap.html.gz
